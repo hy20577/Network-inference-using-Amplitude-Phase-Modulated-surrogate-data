@@ -11,7 +11,7 @@ function [MIR_overall, adj_MIR_fdr, TP_FP_Rate] = Mir_surrogate_data(All_Dat, p_
 
 % All_Dat: Data to use computation of MIR after removing transient period.
 
-% type_of_surr: "twnsd", "randsd", "corr_randsd", 'IAAFT2', 'HT_phase_shuffle', 'HT_phase_rand' 
+% type_of_surr: "twnsd", "randsd", "APMSD"
 
 %%% OPTIONAL INPUTs 
 
