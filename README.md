@@ -8,5 +8,5 @@ In this paper, we propose a new method to infer connectivity in networks using t
 
 The copyright of this works rests with the authors. No quotations from it should be published without the author’s prior written consent, and information derived from it should be acknowledged. Please cite as follows:
 
-H. Yildirim, C. G. Antonopoulos. Network inference using mutual information rate, statistical tests and amplitude-phase modulated surrogate data. Chaos, Solitons & Fractals (Submitted in August 2024).
+H. Yildirim, C. G. Antonopoulos. Network inference using mutual information rate, statistical tests and amplitude-phase modulated surrogate data. Chaos, Solitons & Fractals 188 (2024): 115554.
 
